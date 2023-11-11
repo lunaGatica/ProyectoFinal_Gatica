@@ -1,0 +1,62 @@
+h1{
+    color: green;
+    font-size: 38px;
+    place-items: center; 
+    display: flex;
+    justify-content: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: rgb(119, 211, 139) 5px solid;
+    background-color: #7BC464;
+  
+    
+
+}
+img{
+    width: 120px;
+    height: 120px;
+}
+
+.container{
+    display: flex;
+    margin:  90px;
+    justify-content: center;
+
+   
+    
+}
+.alinear{
+    width: 160px;
+    height: 160px;
+    margin-bottom: 10px;
+}
+body{
+background-color:#9771ff ;
+}
+
+.footer{
+    color: green;
+    position: fixed;
+    bottom: 0;
+    align-items: center;
+    left: 50%;
+    transform: translateX(-50%);
+
+}
+
+.productos{
+    margin-right: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.Carrito{
+    position: absolute;
+            bottom: 160px; 
+            left: 50%;
+            transform: translateX(-50%);
+
+}
+p{
+    text-align: center;
+    color: green;
+}
